@@ -6,9 +6,9 @@ export default function HarFileViewerSEO() {
       <section>
         <h2>HAR File Viewer</h2>
         <p>
-          Effortlessly view and analyze HAR (HTTP Archive) files with our free
+          View and analyze HAR (HTTP Archive) files with our free
           online tool. Debugging network performance has never been easier (or
-          has it?).
+          has it?). 
         </p>
         <p>Scroll down for a debugging surprise.</p>
       </section>
