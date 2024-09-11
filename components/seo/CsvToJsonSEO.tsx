@@ -23,6 +23,32 @@ export default function CsvToJsonSEO() {
           package.
         </p>
       </section>
+
+       <section>
+        <h2>How to Use Jam's CSV to JSON Converter Tool</h2>
+        <p>
+          Whether you're working on web development projects, data analysis, or
+          integrating with APIs, this converter makes it easy to convert CSV files 
+          into JSON data.
+        </p>
+        <ul>
+          <li>
+            <b>Import CSV file:</b> <br /> Paste the CSV file you want to
+            convert.
+          </li>
+          <li>
+            <b>Get the JSON result:</b> <br /> Get the JSON output and copy to
+            clipboard.
+          </li>
+          <li>
+            <b>Lowercase keys:</b> <br /> Optionally, choose to convert all keys
+            in the JSON output to lowercase for consistency.
+          </li>
+        </ul>
+        <p> Need to convert the other way? You can use the JSON to
+            CSV converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/json-to-csv
+        </p> 
+      </section>
      
       <section>
         <h2>More JSON Utilites</h2>
@@ -49,28 +75,7 @@ export default function CsvToJsonSEO() {
           </li>
         </ul>
 
-      <section>
-        <h2>How to Use Jam's CSV to JSON Converter Tool</h2>
-        <p>
-          Whether you're working on web development projects, data analysis, or
-          integrating with APIs, this converter makes it easy to convert CSV files 
-          into JSON data.
-        </p>
-        <ul>
-          <li>
-            <b>Import CSV file:</b> <br /> Paste the CSV file you want to
-            convert.
-          </li>
-          <li>
-            <b>Get the JSON result:</b> <br /> Get the JSON output and copy to
-            clipboard.
-          </li>
-          <li>
-            <b>Lowercase keys:</b> <br /> Optionally, choose to convert all keys
-            in the JSON output to lowercase for consistency.
-          </li>
-        </ul>
-      </section>
+
 
       <section>
         <h2>Benefits of Converting CSV to JSON format</h2>
