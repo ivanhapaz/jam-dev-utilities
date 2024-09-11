@@ -18,24 +18,21 @@ export default function JsonToYamlSEO() {
       </section>
 
       <section>
-        <h2>How to Use</h2>
+        <h2>How to Use the JSON to YAML Converter</h2>
         <p>
-          Converting JSON to YAML with our online tool is straightforward. You
-          can easily convert JSON files to YAML format for various uses, such as
-          configuration files, data exchange, and more. No signup required.
-          Here's how:
+         To convert JSON data to YAML files, just input the JSON file you want to convert and copy the YAML output.
+        No signup required.
+        <p> 
+          Our tool's built-in YAML Validator
+          ensures the output is syntactically correct and adheres to YAML
+          standards. So, you can reliably use the data in your applications.
         </p>
-        <ul>
-          <li>
-            <b>Step 1:</b> <br /> Paste your data: Enter the JSON file you want
-            to convert.
-          </li>
-          <li>
-            <b>Step 2:</b> <br /> Get the YAML result: Copy to clipboard the
-            YAML output.
-          </li>
-        </ul>
+        <p>
+          Need to convert the other way? You can use the JSON 
+          to YAML converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/json-to-yaml
+        </p> 
       </section>
+
 
       <section>
         <h2>Benefits of Converting JSON documents to YAML</h2>
@@ -58,16 +55,6 @@ export default function JsonToYamlSEO() {
             to share and exchange data between different systems and platforms.
           </li>
         </ul>
-      </section>
-
-      <section>
-        <h2>Validating YAML Outputs</h2>
-        <p>
-          When converting data, it's crucial to ensure the accuracy and
-          integrity of the converted YAML. Our tool's built-in YAML Validator
-          ensures the output is syntactically correct and adheres to YAML
-          standards. So, you can reliably use the data in your applications.
-        </p>
       </section>
 
       <section>
@@ -147,11 +134,6 @@ export default function JsonToYamlSEO() {
             <b>Are there any limitations to the converter?</b> <br /> The tool
             functions effectively for all standard use cases. It can handle
             typical files and also extremely large files.
-          </li>
-          <li>
-            <b>How to use it with Swagger Editor?</b> <br /> You can use our
-            converter in conjunction with Swagger Editor online to design,
-            build, and document your APIs efficiently.
           </li>
         </ul>
       </section>
