@@ -27,6 +27,37 @@ export default function YamlToJsonSEO() {
           ensures the output is syntactically correct and adheres to JSON
           standards. So, you can reliably use the data in your applications. 
         </p>
+
+        <p> Need to convert the other way? You can use the JSON to YAML converter here. 
+        </p> // Petar - hyperlink the word "here" to https://jam.dev/utilities/json-to-yaml
+      </section>
+
+      
+      <section>
+        <h2>More JSON conversion tools for other programming languages </h2>
+        <p>
+          Convert CSV, query parameters, or YAML to JSON with Jam's free
+          developer utilities. They're all available in dark mode too.
+        </p>
+        <ul>
+          <li>
+            <Link href="/utilities/csv-to-json">CSV to JSON</Link>: Easily
+            convert CSV data to JSON format—the quickest way to turn tabular
+            data into JSON for APIs and data processing.
+          </li>
+          <li>
+            <Link href="/utilities/yaml-to-json">YAML to JSON</Link>: Easily
+            convert human-readable YAML to JSON. Useful where you're working
+            with configuration files and need to switch between them.
+          </li>
+          <li>
+            <Link href="/utilities/query-params-to-json">
+              Query Parameters to JSON
+            </Link>
+            : Simplify data handling and integration in your web applications by
+            converting query strings to JSON.
+          </li>
+        </ul>
       </section>
      
 
