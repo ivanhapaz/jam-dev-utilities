@@ -23,13 +23,38 @@ export default function CsvToJsonSEO() {
           package.
         </p>
       </section>
+     
+      <section>
+        <h2>More JSON Utilites</h2>
+        <p>
+          Beautify JSON, convert from query parameters, or YAML with Jam's free
+          developer utilities. They're all available in dark mode too.
+        </p>
+        <ul>
+          <li>
+            <Link href="/utilities/json-formatter">JSON Formatter</Link>: Format and 
+            beautify your JSON data for better readability and debugging.
+          </li>
+          <li>
+            <Link href="/utilities/yaml-to-json">YAML to JSON</Link>: Easily
+            convert human-readable YAML to JSON. Useful where you're working
+            with configuration files and need to switch between them.
+          </li>
+          <li>
+            <Link href="/utilities/query-params-to-json">
+              Query Parameters to JSON
+            </Link>
+            : Simplify data handling and integration in your web applications by
+            converting query strings to JSON.
+          </li>
+        </ul>
 
       <section>
         <h2>How to Use Jam's CSV to JSON Converter Tool</h2>
         <p>
-          Easily convert your CSV files to JSON online with this tool. Whether
-          you're working on web development projects, data analysis, or
-          integrating with APIs, our converter simplifies the process.
+          Whether you're working on web development projects, data analysis, or
+          integrating with APIs, this converter makes it easy to convert CSV files 
+          into JSON data.
         </p>
         <ul>
           <li>
