@@ -29,7 +29,7 @@ export default function JsonToYamlSEO() {
         </p>
         <p>
           Need to convert the other way? You can use the JSON 
-          to YAML converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/json-to-yaml
+          to YAML converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/yaml-to-json
         </p> 
       </section>
 
