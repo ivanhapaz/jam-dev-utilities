@@ -46,9 +46,8 @@ export default function YamlToJsonSEO() {
             data into JSON for APIs and data processing.
           </li>
           <li>
-            <Link href="/utilities/yaml-to-json">YAML to JSON</Link>: Easily
-            convert human-readable YAML to JSON. Useful where you're working
-            with configuration files and need to switch between them.
+            <Link href="/utilities/json-formatter">JSON Formatter</Link>: Format and beautify 
+            your JSON data for better readability and debugging.
           </li>
           <li>
             <Link href="/utilities/query-params-to-json">
