@@ -118,13 +118,7 @@ export default function YamlToJsonSEO() {
           <li>
             <b>Is the YAML to JSON converter suitable for all types of data?</b>{" "}
             <br /> Yes. Our tool can handle various types of data, including
-            multi-line strings and key-value pairs. This is beneficial for
-            developers and anyone who works with configuration files.
-          </li>
-          <li>
-            <b>How easy is it to use the YAML converter?</b> <br /> Jam's
-            converter is user-friendly and intuitive, allowing anyone to use it.
-            Simply paste your data, and the tool will do the rest.
+            multi-line strings and key-value pairs. 
           </li>
           <li>
             <b>Are there any limitations to the converter?</b> <br /> The tool
