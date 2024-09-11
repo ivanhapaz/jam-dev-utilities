@@ -49,6 +49,10 @@ export default function JsonToCsvSEO() {
             applications.
           </li>
         </ul>
+        <p>
+          Need to convert the other way? You can use the CSV to JSON
+          converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/csv-to-json
+        </p> 
       </section>
 
       <section>
