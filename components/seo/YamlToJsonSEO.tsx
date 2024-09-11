@@ -2,11 +2,9 @@ export default function YamlToJsonSEO() {
   return (
     <div className="content-wrapper">
       <section>
-        <h2>Free, Open Source & Ad-free</h2>
         <p>
-          This free tool quickly converts YAML to JSON. Ideal for configuration
-          files, data, or web apps. Just paste your YAML data and get the JSON
-          result. Built with 💜 by the Jam developers, using the open-source{" "}
+          You can use this free tool to convert YAML to JSON. Ideal for configuration
+          files, data, or web apps. Built with 💜 by the Jam developers, using the open-source{" "}
           <a
             href="https://github.com/nodeca/js-yaml"
             target="_blank"
@@ -19,27 +17,21 @@ export default function YamlToJsonSEO() {
       </section>
 
       <section>
-        <h2>How to Use</h2>
+        <h2>How to Use the YAML to JSON Converter</h2>
         <p>
-          Converting YAML to JSON with our online tool is straightforward. You
-          can easily convert YAML files to JSON format for various uses, such as
-          configuration files, data exchange, and more. No signup required.
-          Here's how:
+        You
+         To convert YAML files to JSON format, just input the YAML file you want to convert and copy the JSON output.
+        No signup required.
+          </p>
+        <p>Our tool's built-in JSON Validator
+          ensures the output is syntactically correct and adheres to JSON
+          standards. So, you can reliably use the data in your applications. 
         </p>
-        <ul>
-          <li>
-            <b>Step 1:</b> <br /> Paste your data: Enter the YAML file you want
-            to convert.
-          </li>
-          <li>
-            <b>Step 2:</b> <br /> Get the JSON result: Copy to clipboard the
-            JSON output.
-          </li>
-        </ul>
       </section>
+     
 
       <section>
-        <h2>Benefits of Converting YAML documents to JSON</h2>
+        <h2>Benefits of Converting YAML Documents to JSON</h2>
         <p>
           YAML (Ain't Markup Language) is a simple file format used for
           configuration files. JSON (JavaScript Object Notation) is an
@@ -62,16 +54,7 @@ export default function YamlToJsonSEO() {
         </ul>
       </section>
 
-      <section>
-        <h2>Validating JSON Outputs</h2>
-        <p>
-          When converting data, it's crucial to ensure the accuracy and
-          integrity of the converted JSON. Our tool's built-in JSON Validator
-          ensures the output is syntactically correct and adheres to JSON
-          standards. So, you can reliably use the data in your applications.
-        </p>
-      </section>
-
+     
       <section>
         <h2>YAML vs JSON: Which One to Use?</h2>
         <p>
