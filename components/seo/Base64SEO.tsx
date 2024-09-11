@@ -5,25 +5,24 @@ export default function Base64SEO() {
   return (
     <div className="content-wrapper">
       <section>
-        <h2>Free, Open Source & Ad-free</h2>
         <p>
-          Effortlessly encode and decode text or files to and from Base64 format
+          Encode and decode text or files to and from Base64 format
           with this free tool. Safe data transmission and storage in a
           web-friendly text format. Made with 💜 by the developers building Jam.
         </p>
       </section>
 
       <section>
-        <h2>How to Use Jam's Base64 Decode Tool:</h2>
+        <h2>How to Use the Base64 Decode Tool:</h2>
         <p>
-          Paste your text and copy the result. Works for Base64 to image, Base64
+          Paste your data and copy the result. Works for Base64 to image, Base64
           to text, encoded strings, and decoding text strings back to their
           original binary string.
         </p>
       </section>
 
       <section>
-        <h2>Why Encode Data?</h2>
+        <h2>How Does the Base64 Tool Work?</h2>
         <p>
           Base64 encoding converts binary data, such as images or files, into a
           text format that can be safely transmitted over text-based protocols
@@ -72,7 +71,7 @@ export default function Base64SEO() {
       </section>
 
       <section>
-        <h2>Discover Jam: The Ultimate Tool for Web Developers</h2>
+        <h2>Meet Jam: The Ultimate Tool for Debugging Web Apps</h2>
         <p>
           While this tool helps you manage encoding and decoding efficiently,{" "}
           <a href="https://jam.dev?ref=utils" target="_blank" rel="noreferrer">
@@ -81,23 +80,23 @@ export default function Base64SEO() {
           takes your debugging process to the next level.
         </p>
         <p>
-          Meet{" "}
+          Jam is{" "}
           <a
             href="https://chromewebstore.google.com/detail/jam/iohjgamcilhbgmhbnllfolmkmmekfmci"
             target="_blank"
             rel="noreferrer"
           >
-            Jam, the browser extension
+            the browser extension
           </a>{" "}
-          helping over 130,000 users debug faster. Jam captures console logs,
+          helping over 140,000 users debug faster. It captures console logs,
           network requests, and more with just one click. Now anyone can log
-          comprehensive bug reports and you can debug so much faster.
+          comprehensive bug reports and you can debug so much faster without 
+          having to follow up.
         </p>
         <p>
-          No more guesswork—just clear, actionable data that helps you identify
-          and fix issues without having to follow up. Whether you're dealing
-          with Base64-encoded data, debugging JavaScript functions, or ensuring
-          data integrity in your web applications, Jam is here to help.
+          Whether you're dealing with Base64-encoded data or debugging JavaScript functions 
+          in your web applications, you can use Jam to capture your screen and it automatically 
+          includes all the debug details developers need to fix issues in a shareable link.
         </p>
       </section>
 
@@ -108,11 +107,6 @@ export default function Base64SEO() {
       <section>
         <h2>FAQs:</h2>
         <ul>
-          <li>
-            <b>What is a Base64 encoder and decoder?</b> <br /> It's a tool that
-            converts binary data into a text format, while a decoder converts
-            text back to its original binary format.
-          </li>
           <li>
             <b>Can you decode Base64?</b> <br /> Yes, you can. Use this tool to
             decode online by pasting the text into the input box and copying the
