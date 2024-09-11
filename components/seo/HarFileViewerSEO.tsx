@@ -15,7 +15,7 @@ export default function HarFileViewerSEO() {
       <section>
         <h2>How to Use the HAR Analyzer</h2>
         <p>
-          Upload your HAR file and start analyzing immediately. Made with 💜 by
+          Upload your HTTP archive HAR files and start analyzing immediately. Made with 💜 by
           the developers building Jam.
         </p>
       </section>
