@@ -14,7 +14,7 @@ export default function NumberBaseChangerSEO() {
       </section>
 
       <section>
-        <h2>How to Use the Number Base Converter:</h2>
+        <h2>How to Use the Number Base Changer:</h2>
         <p>
           Whether you need to convert a number to base 10, base 2, base 16, 
           or any other number base, Jam's free online tool has you covered.
@@ -39,30 +39,30 @@ export default function NumberBaseChangerSEO() {
         </ul>
       </section>
 
-      <p> 
+        <p> 
           If you’re coding in Python and need to change the base of 
           a number or working in Tableau to change number formats based 
-          on parameters, this tool simplifies the process.
+          on parameters, this tool makes it easy.
         </p>
       </section>
 
       <section>
-        <h2>What You Can Do with this Number Base Converter</h2>
+        <h2>What You Can Do with this Number Base Tool</h2>
         <ul>
           <li>
-            <b>Flexibility:</b> <br /> Easily convert numbers between various
+            Easily convert numbers between various
             bases, including binary, decimal, and hexadecimal.
           </li>
           <li>
-            <b>Efficiency:</b> <br /> Quickly change the base of a number
+            Quickly change the base of a number
             without manual calculations.
           </li>
           <li>
-            <b>Accuracy:</b> <br /> Ensure precise conversions, essential for
+            Ensure precise conversions, essential for
             coding and math operations.
           </li>
           <li>
-            <b>User-Friendly:</b> <br /> Intuitive interface that simplifies
+            Intuitive interface that simplifies
             complex base conversions.
           </li>
         </ul>
