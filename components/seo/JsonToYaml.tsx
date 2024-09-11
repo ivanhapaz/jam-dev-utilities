@@ -16,6 +16,22 @@ export default function JsonToYamlSEO() {
           package.
         </p>
       </section>
+      
+       <section>
+        <h2>How to Use the JSON to YAML Converter</h2>
+        <p>
+         To convert JSON data to YAML files, just input the JSON file you want to convert and copy the YAML output.
+         No signup required.
+        <p> 
+          Our tool's built-in YAML Validator
+          ensures the output is syntactically correct and adheres to YAML
+          standards. So, you can reliably use the data in your applications.
+        </p>
+        <p>
+          Need to convert the other way? You can use the JSON 
+          to YAML converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/yaml-to-json
+        </p> 
+      </section>
 
     <section>
         <h2>More JSON conversion tools</h2>
@@ -41,22 +57,6 @@ export default function JsonToYamlSEO() {
             converting query strings to JSON.
           </li>
         </ul>
-      </section>
-
-      <section>
-        <h2>How to Use the JSON to YAML Converter</h2>
-        <p>
-         To convert JSON data to YAML files, just input the JSON file you want to convert and copy the YAML output.
-        No signup required.
-        <p> 
-          Our tool's built-in YAML Validator
-          ensures the output is syntactically correct and adheres to YAML
-          standards. So, you can reliably use the data in your applications.
-        </p>
-        <p>
-          Need to convert the other way? You can use the JSON 
-          to YAML converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/yaml-to-json
-        </p> 
       </section>
 
 
