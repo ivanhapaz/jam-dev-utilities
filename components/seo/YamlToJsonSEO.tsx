@@ -34,7 +34,7 @@ export default function YamlToJsonSEO() {
 
       
       <section>
-        <h2>More JSON conversion tools for other programming languages </h2>
+        <h2>More JSON conversion tools</h2>
         <p>
           Convert CSV, query parameters, or YAML to JSON with Jam's free
           developer utilities. They're all available in dark mode too.
