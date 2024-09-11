@@ -28,8 +28,8 @@ export default function JsonToYamlSEO() {
           standards. So, you can reliably use the data in your applications.
         </p>
         <p>
-          Need to convert the other way? You can use the JSON 
-          to YAML converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/yaml-to-json
+          Need to convert the other way? You can use the YAML to JSON 
+          converter here. // Petar - hyperlink the word "here" to https://jam.dev/utilities/yaml-to-json
         </p> 
       </section>
 
