@@ -6,20 +6,32 @@ export default function Base64SEO() {
     <div className="content-wrapper">
       <section>
         <p>
-          Encode and decode text or files to and from Base64 format
-          with this free tool. Safe data transmission and storage in a
-          web-friendly text format. Made with 💜 by the developers building Jam.
+          Use this free Base64 encoder and decoder to easily convert data 
+          between binary and text formats. This tool is perfect for embedding 
+          images in HTML or decoding API responses. No need to sign up — just 
+          paste your data and convert instantly.
+          
+          Made with 💜 by the developers building Jam.
         </p>
       </section>
 
       <section>
         <h2>How to Use the Base64 Decode Tool:</h2>
         <p>
-          Paste your data and copy the result. Works for Base64 to image, Base64
-          to text, encoded strings, and decoding text strings back to their
-          original binary string.
+          You can use this tool to convert image files (PNG, JPG, etc.) into 
+          Base64-encoded strings, or to convert Base64 data to image, Base64 to text, 
+          and decoding text strings back to their original binary string. 
+          Just paste your data and copy the result. 
         </p>
-      </section>
+          
+          <p>Use Cases:</p>
+          <p>
+          <ul>
+            <li>Data Conversion: Convert images to Base64 or PNG to Data URI to embed them in HTML or CSS.</li> 
+            <li>Debugging: Decode Base64 images when troubleshooting or analyzing web resources.</li>
+          </ul>
+         </p>
+      </section> 
 
       <section>
         <h2>How Does the Base64 Tool Work?</h2>
