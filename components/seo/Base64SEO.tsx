@@ -6,10 +6,8 @@ export default function Base64SEO() {
     <div className="content-wrapper">
       <section>
         <p>
-          Use this free Base64 encoder and decoder to easily convert data 
-          between binary and text formats. This tool is perfect for embedding 
-          images in HTML or decoding API responses. No need to sign up — just 
-          paste your data and convert instantly.
+          Use this free Base64 encoder and decoder to easily convert between plain text and Base64-encoded strings.
+          This tool is perfect decoding API responses. No need to sign up — just paste your data and convert instantly.
           
           Made with 💜 by the developers building Jam.
         </p>
@@ -18,17 +16,18 @@ export default function Base64SEO() {
       <section>
         <h2>How to Use the Base64 Decode Tool:</h2>
         <p>
-          You can use this tool to convert image files (PNG, JPG, etc.) into 
-          Base64-encoded strings, or to convert Base64 data to image, Base64 to text, 
-          and decoding text strings back to their original binary string. 
+          You can use this tool to decode Base64-encoded strings, or to convert Base64 text strings back to their original binary string. 
           Just paste your data and copy the result. 
+
+          If you need to convert images to Base64 you can use this tool. // hyperlink the word tool to: https://jam.dev/utilities/image-to-base64
         </p>
           
           <p>Use Cases:</p>
           <p>
           <ul>
-            <li>Data Conversion: Convert images to Base64 or PNG to Data URI to embed them in HTML or CSS.</li> 
-            <li>Debugging: Decode Base64 images when troubleshooting or analyzing web resources.</li>
+            <li>Data Conversion: Convert text strings to their original binary form, \
+                useful for handling encoded text data.</li> 
+            <li>Debugging: Decode Base64 data when troubleshooting or analyzing web resources.</li>
           </ul>
          </p>
       </section> 
@@ -36,7 +35,7 @@ export default function Base64SEO() {
       <section>
         <h2>How Does the Base64 Tool Work?</h2>
         <p>
-          Base64 encoding converts binary data, such as images or files, into a
+          Base64 encoding converts binary string into a
           text format that can be safely transmitted over text-based protocols
           like HTTP, email, and more. This process ensures that the data remains
           intact and prevents corruption during transmission.
@@ -56,10 +55,6 @@ export default function Base64SEO() {
             <b>Compatibility:</b> <br /> Facilitates easier data sharing and
             exchange between different systems and platforms that handle
             text-based data.
-          </li>
-          <li>
-            <b>Text to Binary Conversion:</b> <br /> Converts text strings to
-            their original binary form, useful for handling encoded text data.
           </li>
           <li>
             <b>ASCII Decoding:</b> <br /> Converts ASCII strings back to their
@@ -140,19 +135,12 @@ export default function Base64SEO() {
             a web-safe format.
           </li>
           <li>
-            <b>How to decode Base64 text online?</b> <br /> Use our online tool
-            by pasting the Base64 encoded text into the input box and copying
-            the decoded output.
-          </li>
-          <li>
             <b>What is Base64?</b> <br /> It's an encoding scheme used to
             convert binary data into a text format that can be safely
             transmitted over the internet, using a combination of ASCII
             characters.
           </li>
           <li>
-            <b>Can I use this tool for files?</b> <br /> Yes, our tool works for
-            files and text making it useful for web applications and APIs.
           </li>
           <li>
             <b>What is the difference between encoding and decoding?</b> <br />{" "}
